@@ -1,1 +1,3 @@
 # Retail-Forecasting---Random-Forest
+I have successfully used this code for forecasting real retail data. Though I havent shared the datasets I have displayed the data frames so you can understand the structure of in put data. I have also added some additional features such as day and weekend information to explain retail data to the model.
+The beauty of this technique is that it can be used to learn hundreds of stores/products at once and use a single model to accurately predict for different store locations. If you just manipulate the random forest parameters such as number of trees and tree depth, that will give you an accrate model.
